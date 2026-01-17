@@ -97,22 +97,19 @@ Each order is stored in the following format:
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Chhabra-Jatin/bookvault.git
 cd bookvault
 
 ### 2️⃣🔐 Environment Variables
-```bash
 REACT_APP_HOST=http://localhost:8000
 
 ### 3️⃣ Install dependencies
-```bash
 npm install
 
 ### 4️⃣ Start JSON Server
-```bash
 json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json --port 8000
 
 ### 5️⃣ Start the React app
-```bash
 npm start
+
+---
