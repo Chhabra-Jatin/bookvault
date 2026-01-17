@@ -97,6 +97,7 @@ Each order is stored in the following format:
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
+```bash
 git clone https://github.com/Chhabra-Jatin/bookvault.git
 cd bookvault
 
