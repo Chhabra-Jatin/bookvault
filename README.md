@@ -92,6 +92,8 @@ Each order is stored in the following format:
 }
 
 
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
