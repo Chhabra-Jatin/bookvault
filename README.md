@@ -90,15 +90,15 @@ Each order is stored in the following format:
       },
       "id": 1
 }
-
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Chhabra-Jatin/bookvault.git
+
 cd bookvault
 
 ### 2️⃣🔐 Environment Variables
